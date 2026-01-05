@@ -1,0 +1,23 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  color: #1f2937;
+}
+
+button {
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.bg-green { background-color: #16a34a; color: white; }
+.bg-blue { background-color: #1e40af; color: white; }
+.bg-orange { background-color: #ea580c; color: white; }
+
+input, select {
+  padding: 6px;
+  border-radius: 6px;
+}

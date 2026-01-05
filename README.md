@@ -1,2 +1,2 @@
-# app-pds-2026
-Generador de equipos de futbol
+# app-equipos-futbol-2
+Generador de equipos de fútbol
